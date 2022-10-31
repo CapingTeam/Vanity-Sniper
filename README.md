@@ -19,7 +19,11 @@ Vanity Sniper was made for educational purposes, therefor all consequences cause
 ## <a id="features"></a>🛠 » Features
 
 ```
-> 
+> Snipe the URL every fraction of a second
+> Fast
+> Open Source
+> Easy to use
+> Requires No Skills
 ```
 
 ## <a id="setup"></a> 📁 » Setting up 
